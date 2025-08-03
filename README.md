@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Rabin Pulami Magar</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=5RgvR4Az&id=B21ED4CF3B3DC1E32594750B20F3BCD783984987&thid=OIP.5RgvR4Azu1w7xzVhCwMOJQHaHa&mediaurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fboy-coding-designing-with-pc-illustration_418302-2378.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.e5182f478033bb5c3bc735610b030e25%3Frik%3Dh0mYg9e88yALdQ%26pid%3DImgRaw%26r%3D0&exph=626&expw=626&q=animated+coding+images&simid=608032031582597963&FORM=IRPRST&ck=9C9E2244A8BF6D13EC3A37D554C9977E&selectedIndex=19&itb=0&cw=1375&ch=664&mode=overlay">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulamirabin12&label=Profile%20views&color=0e75b6&style=flat" alt="pulamirabin12" /> </p>
 
