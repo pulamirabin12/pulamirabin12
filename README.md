@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/magar_rabin12" target="blank"><img src="https://img.shields.io/twitter/follow/magar_rabin12?logo=twitter&style=for-the-badge" alt="magar_rabin12" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **rabinpulami653@gmail.com**
 
